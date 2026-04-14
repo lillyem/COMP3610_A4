@@ -29,8 +29,8 @@ This project deploys a trained Random Forest regression model as a production-re
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd comp3610-a4
+git clone https://github.com/lillyem/COMP3610_A4.git
+cd COMP3610_A4
 ```
 
 ### 2. Install dependencies
