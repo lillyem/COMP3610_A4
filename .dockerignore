@@ -1,0 +1,17 @@
+# Exclude unnecessary files from Docker build context
+__pycache__/
+*.pyc
+.git/
+.gitignore
+data/
+*.parquet
+*.csv
+mlruns/
+mlartifacts/
+.env
+*.ipynb
+*.md
+.pytest_cache/
+.ipynb_checkpoints/
+venv/
+.venv/
